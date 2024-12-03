@@ -1,0 +1,3 @@
+# Ensure all JavaScript files use LF line endings
+*.js text eol=lf
+echo "*.js text eol=lf" >> .gitattributes
